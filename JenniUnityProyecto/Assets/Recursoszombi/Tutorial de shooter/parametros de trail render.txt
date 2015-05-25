@@ -1,0 +1,3 @@
+Time = 1
+Start Widht = 0.1
+End Width = 0.1
