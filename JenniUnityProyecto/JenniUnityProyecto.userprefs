@@ -1,14 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TriggerPalancaPrincipal.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Pausa.cs">
     <Files>
-      <File FileName="JenniUnityProyecto.sln" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\TriggerPlataformas.cs" Line="44" Column="17" />
-      <File FileName="Assets\Scripts\NPC_Dialog.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\TriggerPalancaPrincipal.cs" Line="28" Column="41" />
-      <File FileName="Assets\Projectile.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Shoot.cs" Line="1" Column="1" />
-      <File FileName="Assets\TriggerPlataformaa.cs" Line="16" Column="1" />
+      <File FileName="Assets\Car.js" Line="254" Column="1" />
+      <File FileName="Assets\Pause.js" Line="34" Column="2" />
+      <File FileName="Assets\Pausa.cs" Line="19" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

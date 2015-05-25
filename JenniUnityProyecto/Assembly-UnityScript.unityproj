@@ -49,6 +49,7 @@
      <Compile Include="Assets\Car entering &amp; exiting.js" />
      <Compile Include="Assets\Car.js" />
      <Compile Include="Assets\CrashController.js" />
+     <Compile Include="Assets\Pause.js" />
      <Compile Include="Assets\Recursoszombi\EnemyScript.js" />
      <Compile Include="Assets\Recursoszombi\EnemyScripthealt.js" />
      <Compile Include="Assets\Recursoszombi\EnemySpawner.js" />
@@ -161,7 +162,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="HOTween">
- <HintPath>C:/Users/JenniWolf/Documents/GitHubB/UnityJenni/JenniUnityProyecto/Assets/RecursosComohacerpeatones/RecursosComohacerpeatones/Holoville/HOTween.dll</HintPath>
+ <HintPath>C:/Users/JenniWolf/Documents/GitHubB/UnityProyecto/JenniUnityProyecto/Assets/RecursosComohacerpeatones/RecursosComohacerpeatones/Holoville/HOTween.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

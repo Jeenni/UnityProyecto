@@ -50,6 +50,7 @@
      <Compile Include="Assets\CarController.cs" />
      <Compile Include="Assets\Drivetrain.cs" />
      <Compile Include="Assets\MovimientoShoot.cs" />
+     <Compile Include="Assets\Pausa.cs" />
      <Compile Include="Assets\Projectile.cs" />
      <Compile Include="Assets\RecursosComohacerpeatones\RecursosComohacerpeatones\BotControlScript.cs" />
      <Compile Include="Assets\RecursosComohacerpeatones\RecursosComohacerpeatones\Manager\PathManager.cs" />
@@ -170,7 +171,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="HOTween">
- <HintPath>C:/Users/JenniWolf/Documents/GitHubB/UnityJenni/JenniUnityProyecto/Assets/RecursosComohacerpeatones/RecursosComohacerpeatones/Holoville/HOTween.dll</HintPath>
+ <HintPath>C:/Users/JenniWolf/Documents/GitHubB/UnityProyecto/JenniUnityProyecto/Assets/RecursosComohacerpeatones/RecursosComohacerpeatones/Holoville/HOTween.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
