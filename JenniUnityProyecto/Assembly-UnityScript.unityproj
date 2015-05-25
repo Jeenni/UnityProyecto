@@ -49,7 +49,6 @@
      <Compile Include="Assets\Car entering &amp; exiting.js" />
      <Compile Include="Assets\Car.js" />
      <Compile Include="Assets\CrashController.js" />
-     <Compile Include="Assets\Pause.js" />
      <Compile Include="Assets\Recursoszombi\EnemyScript.js" />
      <Compile Include="Assets\Recursoszombi\EnemyScripthealt.js" />
      <Compile Include="Assets\Recursoszombi\EnemySpawner.js" />
